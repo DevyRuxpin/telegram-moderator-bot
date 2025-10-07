@@ -1,0 +1,8 @@
+python-telegram-bot==22.0
+aiosqlite==0.20.0
+python-dotenv==1.0.1
+transformers==4.45.0
+torch==2.5.0
+better-profanity==0.7.0
+textblob==0.18.0
+
